@@ -1,16 +1,17 @@
 # KD Tree & KNN [2D]
 ## Overview
-###  As you know, KDTREE is an algorithm that efficiently sorts large amounts of data, and KNN (KNN) is the ability to search for a specific range of data using KD Tree.
+####  As you know, KDTREE is an algorithm that efficiently sorts large amounts of data, and KNN (KNN) is the ability to search for a specific range of data using KD Tree.
 
-### This is an example code, which uses a recursive function to sort the data. We also leverage the Eucladian distance to run KNN.
+#### This is an example code, which uses a recursive function to sort the data. We also leverage the Eucladian distance to run KNN.
 
-### Please look at it with the comments in the main and make it useful. Thank you.
+#### Please look at it with the comments in the main and make it useful. Thank you.
 ---
 --- 
 
 ## build
 
 ```bash
+$> cd KD-Tree_and_KNN
 $> mkdir build && cd build
 $> cmake .. && make
 $> ./kdtree
